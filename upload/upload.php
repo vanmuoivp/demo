@@ -22,5 +22,5 @@ if (in_array($extension, $allowedExts)) {
 } else {
   echo "Invalid file";
 }
-echo 'sua tren local';
+// Sua ten file upload_file.php thanh upload.php
 ?>
