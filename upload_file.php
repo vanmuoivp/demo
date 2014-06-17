@@ -22,9 +22,4 @@
   } else {
     echo "Invalid file";
   }
-
-
-  echo 'sua tren local';
-
-  echo 'sua it code';
 ?>
